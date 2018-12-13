@@ -6,3 +6,6 @@ service:
 openshift-config:
   repo_url: https://github.com/andreazorzetto/ecs-openshift-config.git
   revision: 8
+openshift-routes:
+  repo_url: https://github.com/andreazorzetto/ecs-openshift-routes.git
+  revision: 1
