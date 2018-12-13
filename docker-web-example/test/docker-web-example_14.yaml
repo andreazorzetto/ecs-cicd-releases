@@ -8,4 +8,4 @@ openshift-config:
   revision: 8
 openshift-routes:
   repo_url: https://github.com/andreazorzetto/ecs-openshift-routes.git
-  revision: 1
+  revision: 2
