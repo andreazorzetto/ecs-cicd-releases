@@ -1,0 +1,11 @@
+service:
+  name: docker-web-example
+  repo_url: https://github.com/andreazorzetto/ecs-docker-web-example.git
+  docker_image: docker-web-example
+  revision: 19
+openshift-config:
+  repo_url: https://github.com/andreazorzetto/ecs-openshift-config.git
+  revision: 10
+openshift-routes:
+  repo_url: https://github.com/andreazorzetto/ecs-openshift-routes.git
+  revision: 2
