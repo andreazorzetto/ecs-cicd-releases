@@ -5,4 +5,4 @@ service:
   revision: 1
 kubernetes-config:
   repo_url: https://github.com/andreazorzetto/ecs-kubernetes-config.git
-  revision: 1
+  revision: 3
